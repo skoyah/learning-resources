@@ -5,7 +5,7 @@
 + [All the little things](https://www.youtube.com/watch?v=8bZh5LMaSmE&t=29s) - Sandi Metz
 
 # Design Patters
-## Books
+## Books :books:
 + [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 
 ## Websites :link:
