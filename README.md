@@ -8,5 +8,8 @@
 ## Books :books:
 + [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 
+## Videos :tv:
++ [Phenomenal design patterns in Vue using Vuex with Spiders](https://www.youtube.com/watch?v=AEW7NSF-YqY) - Jacob Schatz
+
 ## Websites :link:
 + [Refactoring Guru](https://refactoring.guru/design-patterns)
